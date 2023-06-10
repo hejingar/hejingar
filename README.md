@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello everyone 👋
+Contact : hejingoh@gmail.com
 
+# ⚡An important gif on how I see myself coding:
 <!--
 **hejingar/hejingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
