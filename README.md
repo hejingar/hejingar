@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### 👋
 Contact : hejingoh@gmail.com
 
 # ⚡An important gif on how I see myself coding:
