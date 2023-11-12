@@ -1,7 +1,7 @@
 ### 👋
 Contact : ael-youb@student.42.fr
 
-# ⚡I am that kind of glorious man:
+# ⚡that's me:
 <!--
 **hejingar/hejingar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
